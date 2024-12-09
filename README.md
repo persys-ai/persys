@@ -12,7 +12,7 @@ Orders are shipped on a rolling basis.
 ### [persys-server](https://github.com/persys-ai/persys-server)
 You'll find the backend server here. Currently Linux only.
 
-### [persys-client](https://github.com/persys-ai/persys-client)
+### [persys-desktio](https://github.com/persys-ai/persys-desktop)
 You'll find the Electron based application to access your persys-server.
 If you ordered the device, you'll get a link to the signed executable.
 
