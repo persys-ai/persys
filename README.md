@@ -23,7 +23,7 @@ You can also find me on LinkedIn [here](https://linkedin.com/in/amants)
 
 I publish updates on YouTube [here](https://www.youtube.com/@aman-labs)
 
-## Contibutions
+## Contributions
 I will add a seperate Contributions doc.
 In the meantime, feel free to open a pull request on either repos.
 Only accepting bug fixes due to my bandwidth and feature requests from orders are being prioritized.
