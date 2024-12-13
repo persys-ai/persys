@@ -16,6 +16,46 @@ You'll find the backend server here. Currently Linux only.
 You'll find the Electron based application to access your persys-server.
 If you ordered the device, you'll get a link to the signed executable.
 
+## Pre Installed Apps
+
+### Chat
+Multi session, multi personality AI chat.
+![Chat App](chat.png)
+
+### Paper
+Block/cell based authoring tool with text, image, video, audio and TeX formulas. RAG capable on the content you write.
+![Paper App](paper.png)
+
+### Library
+PDF library, auto-indexes from your Files app. PDF RAG on every page.
+![Library App](library.png)
+
+### Files
+File system to host all your files.
+![Files App](files.png)
+
+### Gallery
+Image gallery, auto-indexes from your Files app.
+![Gallery App](gallery.png)
+
+### Cinema
+Video gallery, auto-indexes from your Files app.
+![Cinema App](cinema.png)
+
+### Music
+Music player with audio controls and RAG on your music files. Auto-indexes files from your Files app.
+![Music App](music.png)
+
+### ToDo
+To-do app with a list and calendar. RAG on your to do history.
+![ToDo App](todo.png)
+
+### CardClip
+Card based contacts app with RAG.
+![CardClip App](cardclip.png)
+
+---
+
 ## Contact
 Feel free to shoot me a DM on Twitter/X at [@aman_tsegai](https://x.com/amantsegai)
 
